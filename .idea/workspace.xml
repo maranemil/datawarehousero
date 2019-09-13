@@ -2,10 +2,162 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67b3dacd-c842-4161-a0ba-c36c9225b464" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/demografie/Readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/judet-oras-localitati-romania/readme.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/muzeeromania/readme.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baza-date-coduri-postale-romania/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baza-date-coduri-postale-romania/cities.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baza-date-coduri-postale-romania/counties.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baza-date-coduri-postale-romania/streets.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baza-de-date-localitati-romania/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baza-de-date-localitati-romania/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baza-de-date-localitati-romania/localitati.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baza-de-date-localitati-romania/localitati.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baza-de-date-localitati-romania/localitati.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baza-de-date-localitati-romania/localitati.ods" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baza-de-date-localitati-romania/localitati.tsv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baza-de-date-localitati-romania/localitati.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baza-de-date-localitati-romania/localitati.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/baza-de-date-localitati-romania/localitati.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduri-postale/coduri_postale.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduri-postale/coduti-postale-update-2013.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduri-postale/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduripostale/GeoPC_RO.asc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduripostale/GeoPC_RO.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduripostale/GeoPC_RO.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduripostale/GeoPC_RO.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduripostale/GeoPC_RO.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduripostale/GeoPC_RO.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduripostale/GeoPC_RO.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduripostale/GeoPC_RO1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduripostale/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduripostale/RO.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduripostale/data/codp_B.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduripostale/data/geoloc-bucharest-streets-dump.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduripostale/geoloc_for_street_address.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/coduripostale/ro_map_jqvmap.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comunitati/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comunitati/churches.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/comunitati/churches.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/counties-of-romania/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/counties-of-romania/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/counties-of-romania/counties-of-romania.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-localitati-din-romania/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-localitati-din-romania/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-localitati-din-romania/localitati_ro_big.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Alba.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Arad.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Arges.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Bacau.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Bihor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Bistrita-Nasaud.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Botosani.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Braila.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Brasov.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Bucuresti.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Buzau.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Calarasi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Caras-Severin.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Cluj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Constanta.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Covasna.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Dambovita.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Dolj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Galati.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Giurgiu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Gorj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Harghita.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Hunedoara.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Ialomita.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Iasi.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Ilfov.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Maramures.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Mehedinti.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Mures.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Neamt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Olt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Prahova.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Salaj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Satu Mare.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Sibiu.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Suceava.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Teleorman.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Timis.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Tulcea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Valcea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Vaslui.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dataset-primarii-develop/data/Vrancea.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demografie/dataset.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geojson-romania/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geojson-romania/generated/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geojson-romania/generated/counties.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geojson-romania/generated/uats.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/judet-oras-localitati-romania/judet.interface.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/judet-oras-localitati-romania/judete.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/judet-oras-localitati-romania/judete.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista_spitale/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista_spitale/lista-spitalelor-publice-ordonate-alfabetic.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lista_spitale/paturi-in-spitale-pe-unele-specialitati.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-coduri-postale-sql/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-coduri-postale-sql/coduri_postale.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-coduri-postale-sql/judete-orase.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-coduri-postale-sql/orase.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/_judete.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/ab.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/ag.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/ar.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/b.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/bc.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/bh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/bn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/br.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/bt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/bv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/bz.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/cj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/cl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/cs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/ct.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/cv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/db.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/dj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/gj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/gl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/gr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/hd.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/hr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/if.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/il.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/is.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/mh.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/mm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/ms.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/nt.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/ot.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/ph.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/sb.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/sj.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/sm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/sv.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/tl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/tm.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/tr.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/vl.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/vn.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/localitati-romania/alfabetic/vs.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/muzee_romania/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/muzee_romania/date_muzee.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/muzeeromania/lista_muzeelor.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/muzeeromania/lista_muzeelor_coordonate.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/muzeeromania/muzee.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/romanian-counties-and-locations/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/romanian-counties-and-locations/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/romanian-counties-and-locations/data.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/romanian-counties-and-locations/install.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servicii-sociale/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servicii-sociale/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servicii-sociale/data.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,11 +175,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/servicii-sociale-master" />
       <recent name="$PROJECT_DIR$/muzee_romania-master" />
       <recent name="$PROJECT_DIR$/localitati-romania/alfabetic" />
       <recent name="$PROJECT_DIR$/counties-of-romania-master" />
       <recent name="$PROJECT_DIR$/Comunitati-master" />
-      <recent name="$PROJECT_DIR$/baza-de-date-localitati-romania-master" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -53,6 +205,14 @@
       <option name="presentableId" value="Default" />
       <updated>1536165154648</updated>
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1568412618419</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1568412618419</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -65,5 +225,10 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

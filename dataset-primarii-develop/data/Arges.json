@@ -1,0 +1,2810 @@
+[
+    {
+        "nume": "Primăria Bughea De Sus",
+        "adresa": {
+            "strada": "Valea Siliștii, Nr. 229",
+            "localitate": {
+                "nume": "Bughea De Sus",
+                "siruta": 13908
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117027",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-555095"
+            ],
+            "fax": [
+                "0248-555095"
+            ],
+            "website": "https://www.cjarges.ro/web/bughea-de-sus",
+            "email": [
+                "primarie@bugheadesus.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bughea De Jos",
+        "adresa": {
+            "strada": "Nr. 517",
+            "localitate": {
+                "nume": "Bughea De Jos",
+                "siruta": 14931
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117165",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-536808",
+                "0248-537480"
+            ],
+            "fax": [
+                "0248-536808",
+                "0248-537480"
+            ],
+            "website": "http://www.primariabugheadejos.ro",
+            "email": [
+                "primariabugheadejos@yahoo.com",
+                "primarie@bugheadejos.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Budeasa Mare",
+        "adresa": {
+            "strada": "Principală, Nr. 59",
+            "localitate": {
+                "nume": "Budeasa Mare",
+                "siruta": 14860
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117156",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-236457"
+            ],
+            "fax": [
+                "0248-236457"
+            ],
+            "website": "https://www.cjarges.ro/web/budeasa",
+            "email": [
+                "primarie@budeasa.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Brăduleţ",
+        "adresa": {
+            "strada": "Principală, Nr. 10",
+            "localitate": {
+                "nume": "Bradulet",
+                "siruta": 14762
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117145",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-267910"
+            ],
+            "fax": [
+                "0248-267910"
+            ],
+            "website": "https://www.cjarges.ro/web/bradulet",
+            "email": [
+                "primarie@bradulet.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bradu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bradu",
+                "siruta": 13285
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117140",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-279412"
+            ],
+            "fax": [
+                "0248-279412"
+            ],
+            "website": "https://www.cjarges.ro/web/bradu",
+            "email": [
+                "primarie@bradu.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boţeşti",
+        "adresa": {
+            "strada": "Nr. 151",
+            "localitate": {
+                "nume": "Botesti",
+                "siruta": 14735
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117135",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-658133",
+                "0248-658124"
+            ],
+            "fax": [
+                "0248-658133"
+            ],
+            "website": "http://www.comunabotestiarges.ro",
+            "email": [
+                "office@comunabotestiarges.ro",
+                "primarie@botesti.cjarges.ro",
+                "primar@botesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Boteni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Boteni",
+                "siruta": 14682
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117130",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-295299"
+            ],
+            "fax": [
+                "0248-295299"
+            ],
+            "website": "http://www.comunaboteni.ro",
+            "email": [
+                "primariaboteniarges@yahoo.com",
+                "primarie@boteni.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bogaţi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Bogati",
+                "siruta": 14593
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117120",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-655003"
+            ],
+            "fax": [
+                "0248-655003"
+            ],
+            "website": "https://www.cjarges.ro/web/bogati",
+            "email": [
+                "primarie@bogati.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bîrla",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Barla",
+                "siruta": 14469
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117090",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-678141",
+                "0248-678201"
+            ],
+            "fax": [
+                "0248-678090"
+            ],
+            "website": "https://www.cjarges.ro/web/barla",
+            "email": [
+                "primarie@barla.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Berevoeşti",
+        "adresa": {
+            "strada": "Dc 3, Nr. 773",
+            "localitate": {
+                "nume": "Berevoesti",
+                "siruta": 14414
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117115",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-572030"
+            ],
+            "fax": [
+                "0248-572030"
+            ],
+            "website": "http://comunaberevoesti.ro",
+            "email": [
+                "primarie@berevoesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Beleţi-Negreşti",
+        "adresa": {
+            "strada": "Sat Negreşti",
+            "localitate": {
+                "nume": "Beleti-Negresti",
+                "siruta": 14352
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117110",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-657225"
+            ],
+            "fax": [
+                "0248-657225"
+            ],
+            "website": "https://www.cjarges.ro/web/beleti-negresti",
+            "email": [
+                "primarie@beletinegresti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bascov",
+        "adresa": {
+            "strada": "Păişeşti Dn 7C, Nr. 125",
+            "localitate": {
+                "nume": "Bascov",
+                "siruta": 13196
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117045",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-270525"
+            ],
+            "fax": [
+                "0248-270033"
+            ],
+            "website": "http://www.primariabascov.ro",
+            "email": [
+                "primarie@bascov.cjarges.ro",
+                "primariabascov@yahoo.com"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Bălileşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Balilesti",
+                "siruta": 14281
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117080",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-562080",
+                "0248-562300"
+            ],
+            "fax": [
+                "0248-562080"
+            ],
+            "website": "http://www.balilesti.ro",
+            "email": [
+                "primarie@balilesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băiculeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Baiculesti",
+                "siruta": 14174
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117065",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-760204"
+            ],
+            "fax": [
+                "0248-760204"
+            ],
+            "website": "https://www.cjarges.ro/web/baiculesti",
+            "email": [
+                "primarie@baiculesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Băbana",
+        "adresa": {
+            "strada": "Principală, Nr. 10",
+            "localitate": {
+                "nume": "Babana",
+                "siruta": 14094
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117055",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-767001"
+            ],
+            "fax": [
+                "0248-767001"
+            ],
+            "website": "http://www.primariababana.ro",
+            "email": [
+                "primarie@babana.cjarges.ro",
+                "primariababana@yahoo.com"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Arefu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Arefu",
+                "siruta": 14067
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117040",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-730210"
+            ],
+            "fax": [
+                "0248-730211"
+            ],
+            "website": "https://www.cjarges.ro/web/arefu",
+            "email": [
+                "primarie@arefu.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Aninoasa",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Aninoasa",
+                "siruta": 14003
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117035",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-577101",
+                "0248-577180"
+            ],
+            "fax": [
+                "0248-577101"
+            ],
+            "website": "https://www.cjarges.ro/web/aninoasa",
+            "email": [
+                "primarie@aninoasa.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Albota",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Albota",
+                "siruta": 13944
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117030",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-233187"
+            ],
+            "fax": [
+                "0248-233451"
+            ],
+            "website": "https://www.cjarges.ro/web/albota",
+            "email": [
+                "primarie@albota.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Albeştii De Muscel",
+        "adresa": {
+            "strada": "Magistrat Sorin Moisescu, Nr. 283",
+            "localitate": {
+                "nume": "Albestii De Muscel",
+                "siruta": 13891
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117025",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-555300"
+            ],
+            "fax": [
+                "0248-555311"
+            ],
+            "website": "https://www.cjarges.ro/web/albestii-de-muscel",
+            "email": [
+                "primarie@albestiidemuscel.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Albeştii De Argeş",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Albestii De Arges",
+                "siruta": 13819
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117005",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-735005",
+                "0248-735004"
+            ],
+            "fax": [
+                "0248-735005"
+            ],
+            "website": "https://www.cjarges.ro/web/albestii-de-arges",
+            "email": [
+                "primarie@albestiidearges.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Miroşi",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mirosi",
+                "siruta": 17405
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117490",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-694509"
+            ],
+            "fax": [
+                "0248-694509"
+            ],
+            "website": "https://www.cjarges.ro/web/mirosi",
+            "email": [
+                "primarie@mirosi.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mioveni",
+        "adresa": {
+            "strada": "B-Dul Dacia, Nr. 1",
+            "localitate": {
+                "nume": "Mioveni",
+                "siruta": 13310
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "115400",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0348-455444",
+                "0248-455000"
+            ],
+            "fax": [
+                "0248-260500"
+            ],
+            "website": "https://www.cjarges.ro/web/mioveni",
+            "email": [
+                "primarie@mioveni.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mioarele",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mioarele",
+                "siruta": 17334
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117480",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-512474"
+            ],
+            "fax": [
+                "0248-512474"
+            ],
+            "website": "https://www.cjarges.ro/web/mioarele",
+            "email": [
+                "primarie@mioarele.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mihăeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Mihaesti",
+                "siruta": 17263
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117470",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-560002",
+                "0248-560005"
+            ],
+            "fax": [
+                "0248-560005"
+            ],
+            "website": "https://www.cjarges.ro/web/mihaesti",
+            "email": [
+                "primarie@mihaesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Miceşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Micesti",
+                "siruta": 17218
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117465",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-234002"
+            ],
+            "fax": [
+                "0248-234002"
+            ],
+            "website": "http://www.comunamicesti.ro",
+            "email": [
+                "primaria.micesti@yahoo.com"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Merişani",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Merisani",
+                "siruta": 17110
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117455",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-763201"
+            ],
+            "fax": [
+                "0248-763250"
+            ],
+            "website": "https://www.cjarges.ro/web/merisani",
+            "email": [
+                "primarie@merisani.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mărăcineni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Maracineni",
+                "siruta": 13374
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117450",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-278893"
+            ],
+            "fax": [
+                "0248-278893"
+            ],
+            "website": "http://www.comunamaracineni.ro",
+            "email": [
+                "primarie@maracineni.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mălureni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Malureni",
+                "siruta": 17058
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117445",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-765049"
+            ],
+            "fax": [
+                "0248-765049"
+            ],
+            "website": "https://www.cjarges.ro/web/malureni",
+            "email": [
+                "primarie@malureni.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lunca Corbului",
+        "adresa": {
+            "strada": "Nr. 291",
+            "localitate": {
+                "nume": "Lunca Corbului",
+                "siruta": 16953
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117435",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-688501",
+                "0248-688960"
+            ],
+            "fax": [
+                "0248-688960"
+            ],
+            "website": "http://www.comunaluncacorbului.ro",
+            "email": [
+                "primaria_lunca_corbului@yahoo.com"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Lereşti",
+        "adresa": {
+            "strada": "Principală, Nr. 383",
+            "localitate": {
+                "nume": "Leresti",
+                "siruta": 16917
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117430",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-549201"
+            ],
+            "fax": [
+                "0248-549201"
+            ],
+            "website": "https://www.cjarges.ro/web/leresti",
+            "email": [
+                "primarie@leresti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Leordeni",
+        "adresa": {
+            "strada": "Calea Bucuresti, Fn",
+            "localitate": {
+                "nume": "Leordeni",
+                "siruta": 16766
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117410",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-653101",
+                "0248-653161"
+            ],
+            "fax": [
+                "0248-653101",
+                "0248-653161"
+            ],
+            "website": "https://www.cjarges.ro/web/leordeni",
+            "email": [
+                "primarie@leordeni.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Izvoru",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Izvoru",
+                "siruta": 16748
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117405",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-695020"
+            ],
+            "fax": [
+                "0248-695020"
+            ],
+            "website": "https://www.cjarges.ro/web/izvoru",
+            "email": [
+                "primarie@izvoru.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hârtieşti",
+        "adresa": {
+            "strada": "Principală, Nr. 41",
+            "localitate": {
+                "nume": "Hartiesti",
+                "siruta": 16668
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117395",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-297050"
+            ],
+            "fax": [
+                "0248-297050"
+            ],
+            "website": "http://www.comunahartiesti.ro",
+            "email": [
+                "primarie@hartiesti.cjarges.ro",
+                "hartiestiprimaria@yahoo.com"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Hârşeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Harsesti",
+                "siruta": 16622
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117390",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-677374",
+                "0248-677007"
+            ],
+            "fax": [
+                "0248-677007",
+                "0248-677374"
+            ],
+            "website": "http://www.comunaharsesti.ro",
+            "email": [
+                "primarie@hartiesti.cjarges.ro",
+                "prim_hirsesti@yahoo.com"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Godeni",
+        "adresa": {
+            "strada": "Aliniere, Nr. 322",
+            "localitate": {
+                "nume": "Godeni",
+                "siruta": 16560
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117385",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-544901"
+            ],
+            "fax": [
+                "0248-544901"
+            ],
+            "website": "http://www.primariagodeni.ro",
+            "email": [
+                "primarie@godeni.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dragoslavele",
+        "adresa": {
+            "strada": "Braşovului, Nr. 247",
+            "localitate": {
+                "nume": "Dragoslavele",
+                "siruta": 16481
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117375",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-544426",
+                "0248-544510"
+            ],
+            "fax": [
+                "0248-544510"
+            ],
+            "website": "https://www.cjarges.ro/web/dragoslavele",
+            "email": [
+                "primarie@dragoslavele.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Drăganu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Draganu",
+                "siruta": 16506
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117380",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-663310",
+                "0248-663365"
+            ],
+            "fax": [
+                "0248-663365"
+            ],
+            "website": "http://www.primariadraganu.ro",
+            "email": [
+                "primarie@draganu.cjarges.ro",
+                "primariadraganu@yahoo.com"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Domneşti",
+        "adresa": {
+            "strada": "Constantin Brâncoveanu, Nr. 2",
+            "localitate": {
+                "nume": "Domnesti",
+                "siruta": 16463
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117370",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-269942"
+            ],
+            "fax": [
+                "0248-269952"
+            ],
+            "website": "https://www.cjarges.ro/web/domnesti",
+            "email": [
+                "primarie@domnesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dobreşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Dobresti",
+                "siruta": 16436
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117365",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-657431",
+                "0248-657668"
+            ],
+            "fax": [
+                "0248-657668",
+                "0248-657431"
+            ],
+            "website": "https://www.cjarges.ro/web/dobresti",
+            "email": [
+                "primarie@dobresti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dîmbovicioara",
+        "adresa": {
+            "strada": "Sat Podu Dîmboviței",
+            "localitate": {
+                "nume": "Dambovicioara",
+                "siruta": 16356
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117357",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-544204"
+            ],
+            "fax": [
+                "0248-544204"
+            ],
+            "website": "https://www.cjarges.ro/web/dambovicioara",
+            "email": [
+                "primarie@dambovicioara.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Sălătrucu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Salatrucu",
+                "siruta": 18563
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117635",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-545013"
+            ],
+            "fax": [
+                "0248-545145"
+            ],
+            "website": "https://www.cjarges.ro/web/salatrucu",
+            "email": [
+                "primarie@salatrucu.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vedea",
+        "adresa": {
+            "strada": "Nr. 12",
+            "localitate": {
+                "nume": "Vedea",
+                "siruta": 19800
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117815",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-248179",
+                "0248-248149"
+            ],
+            "fax": [
+                "0248-248179"
+            ],
+            "website": "https://www.cjarges.ro/web/vedea",
+            "email": [
+                "primarie@vedea.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Mare Pravăţ",
+        "adresa": {
+            "strada": "Braşovului, Nr. 196",
+            "localitate": {
+                "nume": "Valea Mare-Pravat",
+                "siruta": 13533
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117805",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-557060",
+                "0248-557112"
+            ],
+            "fax": [
+                "0248-557112"
+            ],
+            "website": "http://www.valeamarepravat.ro",
+            "email": [
+                "primarie@valeamarepravat.cjarges.ro",
+                "primariavaleamarepravat@yahoo.fr"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Iaşului",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valea Iasului",
+                "siruta": 19702
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117795",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-724411"
+            ],
+            "fax": [
+                "0248-724411"
+            ],
+            "website": "http://www.comunavaleaiasului.ro",
+            "email": [
+                "primarie@valeaiasului.cjarges.ro",
+                "primaria_viasului@yahoo.com"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Valea Danului",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Valea Danului",
+                "siruta": 19640
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117790",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-724458"
+            ],
+            "fax": [
+                "0248-724458"
+            ],
+            "website": "https://www.cjarges.ro/web/valea-danului",
+            "email": [
+                "primarie@valeadanului.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ungheni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ungheni",
+                "siruta": 19579
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117780",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-674063"
+            ],
+            "fax": [
+                "0248-674423"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Uda",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Uda",
+                "siruta": 19409
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117755",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-243021"
+            ],
+            "fax": [
+                "0372-877508"
+            ],
+            "website": "http://www.primariauda.ro",
+            "email": [
+                "comuna.uda@yahoo.com"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Topoloveni",
+        "adresa": {
+            "strada": "Calea Bucureşti, Nr. 111",
+            "localitate": {
+                "nume": "Topoloveni",
+                "siruta": 13766
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "115500",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-666259",
+                "0248-667343",
+                "0248-666560",
+                "0248-667962"
+            ],
+            "fax": [
+                "0248-666469"
+            ],
+            "website": "http://www.topoloveni.ro",
+            "email": [
+                "primarie@topoloveni.cjarges.ro",
+                "topoloveni@yahoo.com"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ţiţeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Titesti",
+                "siruta": 19347
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117750",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-299012"
+            ],
+            "fax": [
+                "0248-299012"
+            ],
+            "website": "https://www.cjarges.ro/web/titesti",
+            "email": [
+                "primarie@titesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Tigveni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Tigveni",
+                "siruta": 18402
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117740",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0348-528184"
+            ],
+            "fax": [
+                "0348-528184"
+            ],
+            "website": "http://www.tigveni.ro",
+            "email": [
+                "primarie@tigveni.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Teiu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Teiu",
+                "siruta": 19221
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117735",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-689605"
+            ],
+            "fax": [
+                "0248-689605"
+            ],
+            "website": "https://www.cjarges.ro/web/teiu",
+            "email": [
+                "primarie@teiu.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Suseni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Suseni",
+                "siruta": 19016
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117695",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-699397"
+            ],
+            "fax": [
+                "0248-699397"
+            ],
+            "website": "http://www.comuna-suseni.ro",
+            "email": [
+                "primarie@suseni.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Şuici",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Suici",
+                "siruta": 19150
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117725",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-545155"
+            ],
+            "fax": [
+                "0248-545155"
+            ],
+            "website": "http://www.comunasuici.ro",
+            "email": [
+                "primarie@suici.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stolnici",
+        "adresa": {
+            "strada": "Principală",
+            "localitate": {
+                "nume": "Stolnici",
+                "siruta": 18947
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117685",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-676201"
+            ],
+            "fax": [
+                "0248-676201"
+            ],
+            "website": "http://www.comunastolnici.ro",
+            "email": [
+                "primarie@stolnici.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stoeneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stoenesti",
+                "siruta": 18867
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117675",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-550150",
+                "0248-550020"
+            ],
+            "fax": [
+                "0248-550150"
+            ],
+            "website": "https://www.cjarges.ro/web/stoenesti",
+            "email": [
+                "primarie@stoenesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ştefăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stefanesti",
+                "siruta": 13409
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117715",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-266752",
+                "0248-266849"
+            ],
+            "fax": [
+                "0248-266752"
+            ],
+            "website": "http://zonastefanesti.ro/index.php/ro/primarie/",
+            "email": [
+                "primarstefanesti@yahoo.com"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ştefan Cel Mare",
+        "adresa": {
+            "strada": "Alexandru Ioan Cuza, Nr. 899",
+            "localitate": {
+                "nume": "Stefan Cel Mare",
+                "siruta": 19123
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117710",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-696704",
+                "0248-696559"
+            ],
+            "fax": [
+                "0248-696559"
+            ],
+            "website": "https://www.cjarges.ro/web/stefan-cel-mare",
+            "email": [
+                "primarie@stefancelmare.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Stâlpeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Stalpeni",
+                "siruta": 18787
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117665",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-565537"
+            ],
+            "fax": [
+                "0248-565222"
+            ],
+            "website": "https://www.cjarges.ro/web/stalpeni",
+            "email": [
+                "primarie@stalpeni.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Slobozia",
+        "adresa": {
+            "strada": "Constantin Brâncoveanu, Nr. 1",
+            "localitate": {
+                "nume": "Slobozia",
+                "siruta": 18750
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117660",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-698002"
+            ],
+            "fax": [
+                "0248-698002"
+            ],
+            "website": "https://www.cjarges.ro/web/slobozia",
+            "email": [
+                "primarie@slobozia.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Schitu Goleşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Schitu Golesti",
+                "siruta": 18689
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117650",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-566140",
+                "0248-566500"
+            ],
+            "fax": [
+                "0248-566500"
+            ],
+            "website": "http://www.schitugolesti.ro",
+            "email": [
+                "primarie@schitugolesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Săpata",
+        "adresa": {
+            "strada": "Sat Popeşti, Nr. 17",
+            "localitate": {
+                "nume": "Sapata",
+                "siruta": 18171
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117590",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-617009"
+            ],
+            "fax": [
+                "0248-617009"
+            ],
+            "website": "https://www.cjarges.ro/web/sapata",
+            "email": [
+                "primarie@sapata.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vultureşti",
+        "adresa": {
+            "strada": "Principală (Dn 73 D), Nr. 141",
+            "localitate": {
+                "nume": "Vulturesti",
+                "siruta": 16720
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117402",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-296256"
+            ],
+            "fax": [
+                "0248-296256"
+            ],
+            "website": "http://www.comunavulturesti.ro",
+            "email": [
+                "primarie@vulturesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Vlădeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Vladesti",
+                "siruta": 20000
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117840",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-547740",
+                "0248-547755"
+            ],
+            "fax": [
+                "0248-547740"
+            ],
+            "website": "https://www.cjarges.ro/web/vladesti",
+            "email": [
+                "primarie@vladesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rucăr",
+        "adresa": {
+            "strada": "Braşovului, Nr. 58",
+            "localitate": {
+                "nume": "Rucar",
+                "siruta": 18536
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117630",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-542830"
+            ],
+            "fax": [
+                "0248-542522"
+            ],
+            "website": "http://www.primariarucar.ro",
+            "email": [
+                "primarie@rucar.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Rociu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Rociu",
+                "siruta": 18484
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117625",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-688115"
+            ],
+            "fax": [
+                "0248-688115"
+            ],
+            "website": "https://www.cjarges.ro/web/rociu",
+            "email": [
+                "primarie@rociu.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Recea",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Recea",
+                "siruta": 18420
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117620",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-696143"
+            ],
+            "fax": [
+                "0248-696178"
+            ],
+            "website": "https://www.cjarges.ro/web/recea",
+            "email": [
+                "primarie@recea.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Răteşti",
+        "adresa": {
+            "strada": "Sat Tigveni, Nr. 26",
+            "localitate": {
+                "nume": "Ratesti",
+                "siruta": 18340
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117610",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-664066"
+            ],
+            "fax": [
+                "0248-664066"
+            ],
+            "website": "https://www.cjarges.ro/web/ratesti",
+            "email": [
+                "primarie@ratesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Râca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Raca",
+                "siruta": 18224
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117596",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-694083"
+            ],
+            "fax": [
+                "0248-694083"
+            ],
+            "website": "https://www.cjarges.ro/web/raca",
+            "email": [
+                "primarie@raca.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Priboieni",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Priboieni",
+                "siruta": 18251
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117600",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-656001"
+            ],
+            "fax": [
+                "0248-656004"
+            ],
+            "website": "http://www.priboieni.ro/ag/",
+            "email": [
+                "primarie@priboieni.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Popeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Popesti",
+                "siruta": 18171
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117590",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-693109",
+                "0248-693006"
+            ],
+            "fax": [
+                "0248-693109"
+            ],
+            "website": "https://www.cjarges.ro/web/popesti",
+            "email": [
+                "primarie@popesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poienarii De Muscel",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Poienarii De Muscel",
+                "siruta": 17968
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117580",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-546603",
+                "0248-546604"
+            ],
+            "fax": [
+                "0248-546603"
+            ],
+            "website": "https://www.cjarges.ro/web/poienarii-de-muscel",
+            "email": [
+                "primarie@poienariidemuscel.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poienarii De Argeş",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Poienarii De Arges",
+                "siruta": 17913
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117575",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-747140"
+            ],
+            "fax": [
+                "0248-747140"
+            ],
+            "website": "https://www.cjarges.ro/web/poienarii-de-arges",
+            "email": [
+                "primarie@poienariidearges.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Poiana Lacului",
+        "adresa": {
+            "strada": "Principală, Nr. 1",
+            "localitate": {
+                "nume": "Poiana Lacului",
+                "siruta": 18037
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117555",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-293046"
+            ],
+            "fax": [
+                "0248-293969"
+            ],
+            "website": "https://www.poianalacului.ro",
+            "email": [
+                "cabinetprimar@poianalacului.ro",
+                "juridic@poianalacului.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Piteşti",
+        "adresa": {
+            "strada": "Victoriei, Nr. 24",
+            "localitate": {
+                "nume": "Pitesti",
+                "siruta": 13178
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "110017",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-220088"
+            ],
+            "fax": [
+                "0248-212166"
+            ],
+            "website": "http://www.primariapitesti.ro",
+            "email": [
+                "primaria@primariapitesti.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Pietroşani",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Pietrosani",
+                "siruta": 17860
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117550",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-267266",
+                "0248-267267"
+            ],
+            "fax": [
+                "0248-267267"
+            ],
+            "website": "https://www.cjarges.ro/web/pietrosani",
+            "email": [
+                "primarie@pietrosani.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Oarja",
+        "adresa": {
+            "strada": "Primăriei, Nr. 459",
+            "localitate": {
+                "nume": "Oarja",
+                "siruta": 17833
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117545",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-660827",
+                "0248-660341"
+            ],
+            "fax": [
+                "0372-030811"
+            ],
+            "website": "https://www.cjarges.ro/web/oarja",
+            "email": [
+                "primarie@oarja.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Nucşoara",
+        "adresa": {
+            "strada": "Principală, Nr. 228",
+            "localitate": {
+                "nume": "Nucsoara",
+                "siruta": 17780
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117540",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-582013",
+                "0248-582090"
+            ],
+            "fax": [
+                "0248-582090"
+            ],
+            "website": "https://www.cjarges.ro/web/nucsoara",
+            "email": [
+                "primarie@nucsoara.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Negraşi",
+        "adresa": {
+            "strada": "Principală, Fn",
+            "localitate": {
+                "nume": "Negrasi",
+                "siruta": 17735
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117535",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-687522"
+            ],
+            "fax": [
+                "0248-687520"
+            ],
+            "website": "https://www.cjarges.ro/web/negrasi",
+            "email": [
+                "primarie@negrasi.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Muşăteşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Musatesti",
+                "siruta": 17628
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117531",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-268622",
+                "0248-268707"
+            ],
+            "fax": [
+                "0248-268622"
+            ],
+            "website": "http://www.primariamusatesti.ro",
+            "email": [
+                "primarie@musatesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Mozăceni",
+        "adresa": {
+            "strada": "B-Dul Mozăceni, Nr. 570",
+            "localitate": {
+                "nume": "Mozaceni",
+                "siruta": 17584
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117515",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-697116"
+            ],
+            "fax": [
+                "0248-697282",
+                "0248-697310"
+            ],
+            "website": "https://www.cjarges.ro/web/mozaceni",
+            "email": [
+                "primarie@mozaceni.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Moşoaia",
+        "adresa": {
+            "strada": "Calea Drăgăşani, Nr. 95",
+            "localitate": {
+                "nume": "Mosoaia",
+                "siruta": 17502
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117505",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-294001",
+                "0248-294198"
+            ],
+            "fax": [
+                "0248-294001"
+            ],
+            "website": "http://www.primariamosoaia.ro",
+            "email": [
+                "primarie@mosoaia.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Morăreşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Moraresti",
+                "siruta": 17432
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117495",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-240011"
+            ],
+            "fax": [
+                "0248-240012"
+            ],
+            "website": "http://primariamoraresti.ro",
+            "email": []
+        }
+    },
+    {
+        "nume": "Primăria Davideşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Davidesti",
+                "siruta": 16294
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117350",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-298024",
+                "0248-298060"
+            ],
+            "fax": [
+                "0248-298024"
+            ],
+            "website": "https://www.cjarges.ro/web/davidesti",
+            "email": [
+                "primarie@davidesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Dărmăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Darmanesti",
+                "siruta": 16374
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117360",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-232106"
+            ],
+            "fax": [
+                "0248-232106"
+            ],
+            "website": "https://www.cjarges.ro/web/darmanesti",
+            "email": [
+                "primarie@darmanesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Curtea De Argeş",
+        "adresa": {
+            "strada": "B-Dul Basarabilor, Nr. 99",
+            "localitate": {
+                "nume": "Curtea De Arges",
+                "siruta": 13631
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "115300",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-721033"
+            ],
+            "fax": [
+                "0248-721107"
+            ],
+            "website": "http://www.primariacurteadearges.ro",
+            "email": [
+                "viceprimar@primariacurteadearges.ro",
+                "secretariat@primariacurteadearges.ro",
+                "registratura@primariacurteadearges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cuca",
+        "adresa": {
+            "strada": "Principală, Nr. 35",
+            "localitate": {
+                "nume": "Cuca",
+                "siruta": 16141
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117330",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-241001"
+            ],
+            "fax": [
+                "0248-241001"
+            ],
+            "website": "http://old.cjarges.ro/cuca/ja.php",
+            "email": [
+                "primarie@cuca.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cotmeana",
+        "adresa": {
+            "strada": "Principala",
+            "localitate": {
+                "nume": "Cotmeana",
+                "siruta": 15992
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117305",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-242044"
+            ],
+            "fax": [
+                "0248-242066"
+            ],
+            "website": "https://www.cjarges.ro/web/cotmeana",
+            "email": [
+                "primarie@cotmeana.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Costeşti",
+        "adresa": {
+            "strada": "Victoriei, Nr. 49",
+            "localitate": {
+                "nume": "Costesti",
+                "siruta": 13677
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "115200",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-672320"
+            ],
+            "fax": [
+                "0248-672717"
+            ],
+            "website": "http://primariacostestiag.ro",
+            "email": [
+                "primarie@costesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Coşeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cosesti",
+                "siruta": 15910
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117295",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-230038",
+                "0248-230099"
+            ],
+            "fax": [
+                "0248-230038"
+            ],
+            "website": "https://www.cjarges.ro/web/Coşeşti",
+            "email": [
+                "primarie@cosesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corbi",
+        "adresa": {
+            "strada": "Voicu Corvin, Nr. 235",
+            "localitate": {
+                "nume": "Corbi",
+                "siruta": 15849
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117285",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-580005"
+            ],
+            "fax": [
+                "0248-580005"
+            ],
+            "website": "http://www.primariacorbi.ro",
+            "email": [
+                "primarie@corbi.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Corbeni",
+        "adresa": {
+            "strada": "Principală, Nr. 6",
+            "localitate": {
+                "nume": "Corbeni",
+                "siruta": 15750
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117275",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-730236"
+            ],
+            "fax": [
+                "0248-730236"
+            ],
+            "website": "https://www.cjarges.ro/web/Corbeni",
+            "email": [
+                "primarie@corbeni.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cocu",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cocu",
+                "siruta": 15661
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117272",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-246450",
+                "0248-246460"
+            ],
+            "fax": [
+                "0248-246460"
+            ],
+            "website": "https://www.cjarges.ro/web/Cocu",
+            "email": [
+                "primarie@cocu.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciomăgeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ciomagesti",
+                "siruta": 15590
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117255",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-245008"
+            ],
+            "fax": [
+                "0248-245008"
+            ],
+            "website": "http://primaria-ciomagesti.ro",
+            "email": [
+                "primarie@ciomagesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Ciofrângeni",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Ciofrangeni",
+                "siruta": 15509
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117250",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-747155"
+            ],
+            "fax": [
+                "0248-747155"
+            ],
+            "website": "https://www.cjarges.ro/web/ciofrangeni",
+            "email": [
+                "primarie@ciofrangeni.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cicăneşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cicanesti",
+                "siruta": 15457
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117245",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-735058"
+            ],
+            "fax": [
+                "0248-735058"
+            ],
+            "website": "http://primarie-cicanesti.ro",
+            "email": [
+                "primarie@cicanesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cetăţeni",
+        "adresa": {
+            "strada": "Negru Vodă, Nr. 72",
+            "localitate": {
+                "nume": "Cetateni",
+                "siruta": 15411
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117240",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-544090",
+                "0248-544005"
+            ],
+            "fax": [
+                "0248-544090"
+            ],
+            "website": "http://www.primariacetateni.ro",
+            "email": [
+                "primarie@cetateni.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Cepari",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cepari",
+                "siruta": 15313
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117230",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-545043"
+            ],
+            "fax": [
+                "0248-545043"
+            ],
+            "website": "http://www.primariacepari.ro",
+            "email": [
+                "primarie@cepari.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Căteasca",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Cateasca",
+                "siruta": 15242
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117220",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-661006"
+            ],
+            "fax": [
+                "0248-661006"
+            ],
+            "website": "https://www.cjarges.ro/web/cateasca",
+            "email": [
+                "primarie@cateasca.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Câmpulung Muscel",
+        "adresa": {
+            "strada": "Negru Vodă, Nr. 127",
+            "localitate": {
+                "nume": "Campulung",
+                "siruta": 13506
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "115100",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-511034",
+                "0248-511037",
+                "0248-511039"
+            ],
+            "fax": [
+                "0248-511036",
+                "0248-511038"
+            ],
+            "website": "http://www.primariacampulung.ro",
+            "email": [
+                "campulung@muscel.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Călineşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Calinesti",
+                "siruta": 15126
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117195",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-651893"
+            ],
+            "fax": [
+                "0248-651115",
+                "0248-216839"
+            ],
+            "website": "https://www.cjarges.ro/web/calinesti",
+            "email": [
+                "primarie@calinesti.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Căldăraru",
+        "adresa": {
+            "strada": "Principală, Nr. 355",
+            "localitate": {
+                "nume": "Caldararu",
+                "siruta": 15073
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117190",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-692008",
+                "0248-692070"
+            ],
+            "fax": [
+                "0248-692008"
+            ],
+            "website": "https://www.cjarges.ro/web/caldararu",
+            "email": [
+                "primarie@caldararu.cjarges.ro"
+            ]
+        }
+    },
+    {
+        "nume": "Primăria Buzoeşti",
+        "adresa": {
+            "strada": "-",
+            "localitate": {
+                "nume": "Buzoesti",
+                "siruta": 14977
+            },
+            "judet": {
+                "nume": "Arges"
+            },
+            "cod-postal": "117170",
+            "tara": "Romania"
+        },
+        "contact": {
+            "telefon": [
+                "0248-690009"
+            ],
+            "fax": [
+                "0248-690051"
+            ],
+            "website": "https://www.cjarges.ro/web/buzoesti",
+            "email": [
+                "primarie@buzoesti.cjarges.ro"
+            ]
+        }
+    }
+]

@@ -1,0 +1,596 @@
+[
+    {
+        "address": "Str. Băilor, Nr. 27, ",
+        "locality": "Aiud",
+        "county": " Alba",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Alţâna, Nr. 89",
+        "locality": "Alţâna",
+        "county": "Sibiu",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Scărişoara, Nr. 11",
+        "locality": "Arad",
+        "county": "Arad",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Griviţei, Nr. 22",
+        "locality": "Avrig",
+        "county": "Sibiu",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Nr. 63",
+        "locality": "Bercu Nou",
+        "county": "Satu Mare",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Nr 400",
+        "locality": "Bocicoel",
+        "county": "Maramureş",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Boldeşti Grădişte",
+        "county": "Prahova",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Festung, Nr. 1",
+        "locality": "Bran ",
+        "county": "Braşov",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Caraiman",
+        "locality": "Breaza",
+        "county": "Prahova",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Emil Racoviţă, Nr.47",
+        "locality": "Braşov",
+        "county": "Braşov",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Dispensarului, Nr.4",
+        "locality": "Brad",
+        "county": "Hunedoara",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. S. Militaru, Nr. 65",
+        "locality": "Bucureşti",
+        "county": "",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Bucov",
+        "county": "Prahova",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Budăi",
+        "county": "Iaşi",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Budeşti",
+        "county": "Vâlcea",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Nr. 181",
+        "locality": "Căpâlnaş",
+        "county": "Arad",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Maior Galdau, Nr. 22 ",
+        "locality": "Câmpulung Muscel",
+        "county": "Argeş",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Câmpuri Surduc",
+        "county": "Hunedoara",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Câmpuri",
+        "county": "Vrancea",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Cetăţeni",
+        "county": "Argeş",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Cîndeşti",
+        "county": "Buzău",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Dudului, Nr.36",
+        "locality": "Ciupercenii Noi",
+        "county": "Dolj",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str.Teleorman, Nr.27",
+        "locality": "Cluj-Napoca",
+        "county": "Cluj",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. C.Brătescu, Nr.82",
+        "locality": "Constanţa",
+        "county": "Constanţa",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Ş. Cel Mare, Nr.40",
+        "locality": "Craiova",
+        "county": "Dolj",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Nr. 57",
+        "locality": "Cristelec",
+        "county": "Sălaj",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. A. Mureşanu, Nr.37",
+        "locality": "Curtici",
+        "county": "Arad",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Traian, Nr.25",
+        "locality": "Dej",
+        "county": "Cluj",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. L. Blaga, Nr.3",
+        "locality": " Deva",
+        "county": "Hunedoara",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Dolheştii Mari",
+        "county": "Suceava",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Dracseni",
+        "county": "Teleorman",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. C. Brediceanu, Nr.11",
+        "locality": "Făget",
+        "county": "Timiş",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Negoiu, Nr.24",
+        "locality": "Făgăraş",
+        "county": "Braşov",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Floreşti",
+        "county": "Giurgiu",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Havârna",
+        "county": "Botoşani",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Nr.105",
+        "locality": "Laslău Mare",
+        "county": "Mureş",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Loloiasca",
+        "county": "Prahova",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. T. Vladimirescu, Nr.85A",
+        "locality": "Lugoj",
+        "county": "Timiş",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Tineretului, Bl. A7, Sc. 1",
+        "locality": "Lupeni",
+        "county": "Hunedoara",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Matca",
+        "county": "Galaţi",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": " Mărăşeşti",
+        "county": "Mehedinţi",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Moisei",
+        "county": "Maramureş",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Parcului, Nr. 2A",
+        "locality": "Oradea",
+        "county": "Bihor",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. T. Vladimirescu, Nr. 5",
+        "locality": "Petroşani",
+        "county": "Hunedoara",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Nr. 738",
+        "locality": "Petrova",
+        "county": " Maramureş",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Com. Bucov",
+        "locality": "Pleaşa",
+        "county": "Prahova",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Torcatorilor, Nr.51",
+        "locality": "Ploieşti",
+        "county": "Prahova",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Nr. 27",
+        "locality": "Pocivelişte",
+        "county": "Bihor",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Podari",
+        "county": "Dolj",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. 24 Ianuarie, Nr. 19",
+        "locality": "Reşiţa",
+        "county": "Caraş Severin",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Nr 43,",
+        "locality": "Rodna Veche",
+        "county": "Bistriţa Năsăud",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Nr. 195 A",
+        "locality": "Satu-Mare",
+        "county": "Arad",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. P. Sandor, Nr. 54 ",
+        "locality": "Săcuien",
+        "county": "Bihor",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Abatorului, Nr. 21",
+        "locality": "Satu-Mare,",
+        "county": "Satu Mare",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Nr. 296",
+        "locality": "Scorei",
+        "county": "Sibiu",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. 22 Noiembrie",
+        "locality": "Siret",
+        "county": "Suceava",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Plopilor, Nr. 1",
+        "locality": "Sibiu",
+        "county": "Sibiu",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Viitor, Nr 25",
+        "locality": "Slobozia",
+        "county": "Ialomiţa",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Piteşti, Nr. 115",
+        "locality": "Slatina",
+        "county": "Olt",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Nr. 436",
+        "locality": "Şeica Mică",
+        "county": "Sibiu",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Urecheşti",
+        "county": "Vrancea",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Văcăreşti",
+        "county": "Dâmboviţa",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Nr. 566A",
+        "locality": "Vişeu de Jos",
+        "county": "Maramureş",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "",
+        "locality": "Toaca",
+        "county": "Mureş",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Voinicenilor, Nr. 26",
+        "locality": "Târgu Mureş",
+        "county": "Mureş",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    },
+    {
+        "address": "Str. Berzei, Nr. 8",
+        "locality": "Târgovişte",
+        "county": "Dâmbovita",
+        "conference": {
+            "name": null
+        },
+        "type": "church"
+    }
+]
